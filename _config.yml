@@ -76,10 +76,10 @@ plugins:
 # ---------------------------------------------------------------
 
 # Put your favicon.ico into `assets/` directory.
-favicon: /assets/favicon.ico
+favicon: "https://tva1.sinaimg.cn/crop.0.0.998.998.180/af24fa77jw1ek2lgtounrj20rs0rsdqd.jpg?KID=imgbed,tva&Expires=1587489771&ssig=6s4ydaC5VB"
 
 # Set default keywords (Use a comma to separate)
-keywords: "Jekyll, NexT"
+keywords:
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
